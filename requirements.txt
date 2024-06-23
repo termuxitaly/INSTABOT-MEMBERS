@@ -1,0 +1,2 @@
+colorama==0.4.4 
+instabot==0.117.0
